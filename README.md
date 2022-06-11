@@ -1,2 +1,2 @@
-# Winc-Academy-Hackathon
+# CSS-Layouts Hackathon
 A little something 
