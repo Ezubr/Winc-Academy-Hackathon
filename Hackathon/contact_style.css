@@ -179,12 +179,12 @@ label {
     gap: 4px;
   }
 
-  .half {
+  .box {
     display: flex;
     flex-direction: column;
   }
 
-  .half .item {
+  .box .name {
     width: 100%;
   }
 
